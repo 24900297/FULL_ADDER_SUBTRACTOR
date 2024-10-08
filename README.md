@@ -88,7 +88,7 @@ endmodule
 
  **Program1(B):**
 
- Full_subtractor
+ ##Full_subtractor
 
  module fullsub_top(a,b,Bin,BO,DIFF);
 
