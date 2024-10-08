@@ -56,23 +56,23 @@ FULL SUBTRACTOR
 
 ![EX 4 PROGRAM ](https://github.com/user-attachments/assets/9bfdfd0c-f081-41a8-986e-be3e043f54d8)
 
-**RTL Schematic**
+**RTL Schematic(1A):**
 
 ![EX 4 RTL ](https://github.com/user-attachments/assets/8acb5dce-3b57-44ec-9b4b-8dd1cf9c1d47)
 
-**Output Timing Waveform**
+**Output Timing Waveform(1A):**
 
 ![EX 4 OUTPUT ](https://github.com/user-attachments/assets/f5797839-7745-4139-b4dd-ad19551df59b)
 
- **Program: 1(B)**
+ **Program1(B):**
 
  ![EX 4 1B PROGRAM ](https://github.com/user-attachments/assets/94eff8fa-356f-449c-8460-ce4a56f6381f)
 
-**RTL Schematic**
+**RTL Schematic(1B):**
 
 ![EX 4 1B RTL](https://github.com/user-attachments/assets/7dc3085d-ef28-493f-96f3-c566534aee2f)
 
-**Output Timing Waveform**
+**Output Timing Waveform(1B):**
 
 ![EX 4 1B OUTPUT](https://github.com/user-attachments/assets/dbb2f1d7-b9ff-4c33-b579-47e6736d30fb)
 
